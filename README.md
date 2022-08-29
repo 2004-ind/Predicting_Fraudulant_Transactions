@@ -1,2 +1,2 @@
-# Predicting_Fraudulant_Transactions
-Fraud detection by using logistic regression
+# Predicting_Fraudulent_Transactions
+Fraud detection using logistic regression
